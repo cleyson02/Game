@@ -1,0 +1,84 @@
+CAPITULO_COM_IMAGEM
+IMAGEM
+[O\\\\\[========================-
+FIM_DA_IMAGEM.
+TITULO
+Capítulo 1
+TEXTO
+Olá Defensor! Sua missão é proteger o território do Charada. Se bem sucedida, você receberá uma nomeação da coroa real. Para atacar você deve responder corretamente a charada a seguir: O senhor e a senhora silva têm 6 filhas. Cada filha tem um irmão. Quantas pessoas fazem parte da família silva?
+PERSONAGEM
+defensor
+VARIAÇÃO DE ENERGIA
+0
+
+CAPITULO
+TITULO
+Capítulo 2
+TEXTO
+Certa resposta! Você afastou o Charada do nosso território, mas ainda não o derrotou. Para atacar você deve responder corretamente a charada a seguir: Pediram para o Jaime para ele pintar os números de todas as portas de uma vila. Há, ao todo, 100 casas nessa vila. Quantas vezes Jaime terá de pintar o número 8?
+PERSONAGEM
+charada
+VARIAÇÃO DE ENERGIA
+-40
+
+CAPITULO
+TITULO
+Capítulo Final
+TEXTO
+Certa resposta! Nosso território agora está seguro, você será nomeado nosso rei. VIDA LONGA AO NOSSO REI!!!
+PERSONAGEM
+charada
+VARIAÇÃO DE ENERGIA
+-60
+
+CAPITULO
+TITULO
+Capítulo X|
+TEXTO
+Você errou. Seu erro custou sua vida. GAME OVER!
+PERSONAGEM
+defensor
+VARIAÇÃO DE ENERGIA
+-100
+
+CAPITULO
+TITULO
+Capítulo XD
+TEXTO
+Você falhou. O Charada invadiu nosso território e nos fez de escravos. GAME OVER!
+PERSONAGEM
+defensor
+VARIAÇÃO DE ENERGIA
+-100
+
+ESCOLHA
+CAPITULO DE ORIGEM
+Capítulo 1
+TEXTO
+9
+CAPITULO DE DESTINO
+Capítulo 2
+
+ESCOLHA
+CAPITULO DE ORIGEM
+Capítulo 1
+TEXTO
+8
+CAPITULO DE DESTINO
+Capítulo X|
+
+ESCOLHA
+CAPITULO DE ORIGEM
+Capítulo 2
+TEXTO
+100
+CAPITULO DE DESTINO
+Capítulo XD
+
+ESCOLHA
+CAPITULO DE ORIGEM
+Capítulo 2
+TEXTO
+20
+CAPITULO DE DESTINO
+Capítulo Final
