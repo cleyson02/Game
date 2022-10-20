@@ -15,7 +15,7 @@
             "name": "Launch App",
             "request": "launch",
             "mainClass": "App",
-            "projectName": "Game-Javaa_e9567733",
+            "projectName": "Game-Java_c57666ee",
             "vmArgs": "--module-path C:/JavaFX/javafx-sdk-19/lib --add-modules javafx.controls,javafx.fxml"
         }
     ]
